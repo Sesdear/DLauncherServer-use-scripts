@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNBO6MYPE3g=",
+  "success": true,
+  "projectFilePath": "/home/sergey/Desktop/DLServer-python/csharp/csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/sergey/.nuget/packages/libgit2sharp/0.31.0/libgit2sharp.0.31.0.nupkg.sha512",
+    "/home/sergey/.nuget/packages/libgit2sharp.nativebinaries/2.0.323/libgit2sharp.nativebinaries.2.0.323.nupkg.sha512"
+  ],
+  "logs": []
+}
